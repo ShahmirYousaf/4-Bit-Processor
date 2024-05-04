@@ -1,4 +1,4 @@
-# 4-Bit Processor Project
+# 4-Bit Processor
 
 Welcome to the 4-Bit Processor project! In this project, I undertook a fascinating endeavor in Digital Logic Design during my second semester. I successfully designed a 4-bit processor capable of performing arithmetic and logical operations. This processor incorporated essential components such as registers, decoders, multiplexers, logic gates, and display units, among others. By utilizing these components effectively, I created a functional and efficient processor capable of executing various operations.
 
